@@ -1,0 +1,5 @@
+﻿  lab10algo.cpp
+C:\Users\mazda\source\repos\lab10algo\lab10algo\lab10algo.cpp(201,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mazda\source\repos\lab10algo\lab10algo\lab10algo.cpp(212,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mazda\source\repos\lab10algo\lab10algo\lab10algo.cpp(154): warning C4715: delObject: значение возвращается не при всех путях выполнения
+  lab10algo.vcxproj -> C:\Users\mazda\source\repos\lab10algo\Debug\lab10algo.exe
