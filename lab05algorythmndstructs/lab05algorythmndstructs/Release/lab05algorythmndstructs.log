@@ -1,0 +1,8 @@
+﻿  lab05algorythmndstructs.cpp
+C:\Users\mazda\source\repos\lab05algorythmndstructs\lab05algorythmndstructs\lab05algorythmndstructs.cpp(14,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  1 of 6 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab05algorythmndstructs.vcxproj -> C:\Users\mazda\source\repos\lab05algorythmndstructs\Release\lab05algorythmndstructs.exe
